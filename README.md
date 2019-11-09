@@ -11,7 +11,7 @@ Colorpicker is a simple jQuery plugin for color picking, it's built for my Smart
 
 It's simple, just see the following html: 
 
-```
+```html
 <!doctype html>
 <html lang="en">
 <head>
